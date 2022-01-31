@@ -1,1 +1,8 @@
 styles.css
+div {
+  background-color: Red;
+  text-color: white;
+  font-size: 32 px;
+  text-align: center;
+  text-weight: bold;
+}
